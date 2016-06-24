@@ -1,0 +1,8 @@
+@import 'settings';
+@import 'foundation';
+
+.center {text-align: center;}
+.introtext {font-size: $small-font-size; text-align: right; margin: 0; padding: 0; color: $body-background;}
+.introtext a {margin-left: $global-margin;}
+h1, h2, h3 {color: $cmi-blue-color;}
+th.lastcollapse {padding-bottom: 0;}
